@@ -1,6 +1,6 @@
 ### Hi there, I'm Halis n I'm thinking colossal 🤔
 
-I'll continue after I eat my taco 🌮 https://tenor.com/view/friends-american-sitcom-series-rachel-green-jennifer-aniston-gif-17315612
+I'll continue after I eat my taco 🌮
 
 <!--
 **halisuyanik/halisuyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
