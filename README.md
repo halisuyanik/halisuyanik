@@ -1,4 +1,4 @@
-### Hi there, I'm Halis n I'm thinking colossal 🤔
+### Hi there, I'm Halis n thinkin' colossal 🤔
 
 I'll continue after I eat my taco 🌮
 
