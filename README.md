@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://media.giphy.com/media/myPdoRAlad0J2/giphy.gif" align="center" height="250" width="" />
-</div>  
+
   
 
 ### <div align="center">Hello, I'm Halis! 👋</div>  
