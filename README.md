@@ -6,6 +6,26 @@
     <div>
         <h3 align="left">My Toolbox n Technologies:</h3>
         
+       ```
+        // tools_I_use organized
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Sublime", "Neovim" },
+    "Platforms" : { "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+       ```
+        
+        
+        
+        
+        
+        
+        
 <p align="left">
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
