@@ -4,7 +4,7 @@
 ### <div align="center">Hello, I'm Halis! 👋</div>  
   
 
-*<div align="center">I'm a Full-Stack .Net n Reactjs Developer working in Ankara, Turkey.</div>*  
+*<div align="center">I'm a Full-Stack Asp.Net n Reactjs Developer working in Ankara, Turkey.</div>*  
   
 
 <br/>  
