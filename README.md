@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <a href="halisuyanik.netlify.app">My Portfolio website</a>
+  <a href="https://halisuyanik.netlify.app/">My Portfolio website</a>
 </div> 
 
 <br/>  
