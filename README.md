@@ -14,6 +14,9 @@
 </div> 
 
 <br/>  
+<div align="left">✨ My current plan is to learn web3tech.
+  </div>
+  <br/>
 
 ## My Toolbox  
 <table><tr><td valign="top" width="33%">
