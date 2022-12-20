@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <a target="blank" href="https://halisuyanik.netlify.app/">My Portfolio website</a>
+  <a target="blank" href="https://halisuyanik.dev/">My Portfolio website</a>
 </div> 
 
 <br/>  
