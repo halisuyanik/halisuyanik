@@ -14,6 +14,11 @@
 </div> 
 
 <br/>  
+<div align="center">
+  <a target="blank" href="https://links.dev/halisuyanik">links.dev</a>
+</div> 
+
+<br/>  
 <div align="left"> 🤘 I'm creating something for web and backend architecture.
   </div>
   <br/>
