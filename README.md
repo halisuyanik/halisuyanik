@@ -15,7 +15,7 @@
 
 <br/>  
 <div align="center">
-  <a target="blank" href="https://links.dev/halisuyanik">links.dev</a>
+  <a target="blank" href="https://links.dev/halisuyanik">contact links</a>
 </div> 
 
 <br/>  
