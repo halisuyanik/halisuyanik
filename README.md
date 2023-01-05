@@ -21,12 +21,17 @@
 <br/>  
 
 <br/>  
-<div align="left"> 🤘 I'm creating something for web and backend architecture.
+<ul>
+  <li><div align="left"> 🤘 I'm creating something for web and backend architecture.
   </div>
-  <br/>
-<div align="left">✨ My current plan is to learn web3tech.
+  <br/></li>
+</ul>
+<ul>
+  <li><div align="left">✨ My current plan is to learn web3tech.
   </div>
-  <br/>
+  <br/></li>
+</ul>
+
 
 ## My Toolbox  
 <table><tr><td valign="top" width="33%">
