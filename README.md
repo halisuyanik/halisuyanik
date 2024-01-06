@@ -26,11 +26,7 @@
   </div>
   <br/></li>
 </ul>
-<ul>
-  <li><div align="left">✨ My current plan is to learn web3tech.
-  </div>
-  <br/></li>
-</ul>
+
 
 
 ## My Toolbox  
