@@ -13,10 +13,7 @@
   <a target="blank" href="https://halisuyanik.dev/">My Portfolio website</a>
 </div> 
 
-<br/>  
-<div align="center">
-  <a target="blank" href="https://links.dev/halisuyanik">links</a>
-</div> 
+
 
 <br/>  
 
